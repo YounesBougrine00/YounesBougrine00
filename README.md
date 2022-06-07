@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React JS, NodeJS, Microservices, Docker & Kubernetes**
 
-- 📫 How to reach me **bougrine.by@gmail.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
